@@ -3,7 +3,7 @@
 
 #                                         (PYTHON VERSION)
 
-#                                made by = tate42hadi   &    bruh098715 
+#                                made by = tate42hadi   &    satouro0
 import pygame
 import math
 import random
@@ -362,4 +362,5 @@ def main():
     sys.exit()
 
 if __name__ == "__main__":
+
     main()
